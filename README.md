@@ -109,6 +109,9 @@ All metrics were implemented as dynamic DAX measures responsive to slicers and f
 
 Designed for senior management to:
 
+## Main Dashboard
+
+![Main Dashboard](Screenshots/main_dashboard.png)
 
 
 * Monitor overall business performance
@@ -124,6 +127,9 @@ Designed for senior management to:
 
 ##### **Independent Business Insights (Analytical View)**
 
+## Independent Business Insights
+
+![Business Insights](Screenshots/business_insights.png)
 
 
 An additional analytical page created beyond the guided tutorial scope to demonstrate independent reasoning and problem-solving.
@@ -229,4 +235,5 @@ The project is intended as a portfolio artifact for MSc Data Science and Analyti
 * Effective analytics begins with well-defined business questions
 * Visualizations should support decision-making rather than decoration
 * Communicating insights is as critical as computing metrics
+
 
