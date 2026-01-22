@@ -211,7 +211,9 @@ The project is intended as a portfolio artifact for MSc Data Science and Analyti
   * fact\_bookings.csv
   * fact\_aggregated\_bookings.csv
 
-* Screenshots/ – Dashboard visuals
+* Screenshots/ –
+  * business_insights.png
+  * main_dashboard.png
 * README.md – Project documentation
 
 
@@ -227,3 +229,4 @@ The project is intended as a portfolio artifact for MSc Data Science and Analyti
 * Effective analytics begins with well-defined business questions
 * Visualizations should support decision-making rather than decoration
 * Communicating insights is as critical as computing metrics
+
